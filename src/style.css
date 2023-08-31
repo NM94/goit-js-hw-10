@@ -1,0 +1,22 @@
+.unvisible {
+  display: none;
+}
+
+.cat-picture {
+  width: 400px;
+}
+
+.cat-info.container {
+  display: flex;
+}
+.cat-info-desc {
+  margin: 10px;
+}
+.cat-info-desc-title {
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.cat-info-desc-desc {
+  font-size: 20px;
+}
